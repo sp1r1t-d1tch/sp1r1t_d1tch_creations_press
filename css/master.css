@@ -26,13 +26,14 @@ body {
 \* ---------------------------------------------------------- */
 
 html {
-  color: #444444;
+  color: #f4f4f4;
 
   font: 62.5%/1.6 "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
 body {
   font-size: 1.26em;
+  background-color: #161616;
 }
 
 h1,
@@ -210,7 +211,7 @@ a:hover {
 
 .nav__title {
   padding: 0 15px;
-
+  color: inherit;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   line-height: 1;
 }
